@@ -1,0 +1,7 @@
+Installation Instructions :
+---------------------------
+Step 1 : clone the repo from git 
+Step 2 : configure your ports in docker-compose.yml if required
+Step 3 : Up the container running $ docker-compose up -d
+Step 4 : Run $docker ps <- to check if your container is up
+Step 5 : Open up browser and run "localhost:8099" to ensure that loaded files are working
